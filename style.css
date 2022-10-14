@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+}
+hr {
+  width: 250px;
+  opacity: 0.5;
+}
+h1 {
+  text-align: right;
+  font-size: 3rem;
+  font-weight: normal;
+  margin-bottom: 0;
+}
+button {
+  background-color: transparent;
+  border: none;
+  font-size: 2rem;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: #eee;
+}
+img {
+  width: 1.5rem;
+}
+.container {
+  position: absolute;
+}
+.orange {
+  color: #fd4900;
+}
+.ml {
+  margin-left: 1rem;
+}
+.ta-r {
+  text-align: right;
+}
+#equal {
+  background-color: #fd4900;
+  color: white;
+  width: 220px;
+  border-radius: 10px;
+}
